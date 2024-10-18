@@ -1,1 +1,2 @@
-# Curso-Coursera
+# Curso-Coursera    
+# Laboratorios de practica de cada Modulo
